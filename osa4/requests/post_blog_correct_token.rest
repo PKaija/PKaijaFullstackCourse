@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlV1c2lrw6R5dHTDpGrDpCIsImlkIjoiNWRiNWI2NDMwYmQ4MmE2ZTA4NzI2YTdiIiwiaWF0IjoxNTcyMTg5Nzc4fQ.vskKoEEsZvd5gUsSkoI8Q144C74myDNFtm_dodmNr_A
+
+{
+    "title": "TestiBlogWithToken",
+    "author": "uusi käyttäjä",
+    "url": "asdfasdfasdfasdfasdf"
+}
