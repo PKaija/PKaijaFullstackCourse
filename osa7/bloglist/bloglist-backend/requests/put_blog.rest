@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/5d6580a65b6e963cc3886366
+Content-Type: application/json
+
+{
+    "title": "Testiblog3",
+    "author": "Ismo Laitela",
+    "url": "changedurl2",
+    "likes": 50000
+}

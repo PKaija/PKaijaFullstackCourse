@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFhYSIsImlkIjoiNWRiNjY0ZTg0YWU5YTc4NTJlZjJkMmJmIiwiaWF0IjoxNTcyMjU2MzY0fQ.31YyAVYRF35DHj1p3Vy6pOQnfu4urXCQmgt1TquSeiw
+
+{
+    "title": "df,ab gjlgksdfbglsdbfgjsdbjk",
+    "author": "aaa",
+    "url": "rilegbjbsgdbgkjdb"
+}
